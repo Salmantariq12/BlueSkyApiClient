@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dynamit-desktop-01\\Desktop\\BlueSkyClient.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{248527C2-CCF8-41BE-B4FE-75829DE5DCA3}|BlueSkyClient.Console\\BlueSkyClient.Console.csproj|c:\\users\\dynamit-desktop-01\\desktop\\blueskyclient.core\\blueskyclient.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248527C2-CCF8-41BE-B4FE-75829DE5DCA3}|BlueSkyClient.Console\\BlueSkyClient.Console.csproj|solutionrelative:blueskyclient.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C36A038-D908-4B46-972E-7FD253623415}|BlueSkyClient.Core\\BlueSkyClient.Core.csproj|c:\\users\\dynamit-desktop-01\\desktop\\blueskyclient.core\\blueskyclient.core\\blueskyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C36A038-D908-4B46-972E-7FD253623415}|BlueSkyClient.Core\\BlueSkyClient.Core.csproj|solutionrelative:blueskyclient.core\\blueskyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C36A038-D908-4B46-972E-7FD253623415}|BlueSkyClient.Core\\BlueSkyClient.Core.csproj|c:\\users\\dynamit-desktop-01\\desktop\\blueskyclient.core\\blueskyclient.core\\models\\post\\interactionpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C36A038-D908-4B46-972E-7FD253623415}|BlueSkyClient.Core\\BlueSkyClient.Core.csproj|solutionrelative:blueskyclient.core\\models\\post\\interactionpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C36A038-D908-4B46-972E-7FD253623415}|BlueSkyClient.Core\\BlueSkyClient.Core.csproj|c:\\users\\dynamit-desktop-01\\desktop\\blueskyclient.core\\blueskyclient.core\\models\\post\\replytreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C36A038-D908-4B46-972E-7FD253623415}|BlueSkyClient.Core\\BlueSkyClient.Core.csproj|solutionrelative:blueskyclient.core\\models\\post\\replytreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InteractionPost.cs",
+              "DocumentMoniker": "C:\\Users\\dynamit-desktop-01\\Desktop\\BlueSkyClient.Core\\BlueSkyClient.Core\\Models\\Post\\InteractionPost.cs",
+              "RelativeDocumentMoniker": "BlueSkyClient.Core\\Models\\Post\\InteractionPost.cs",
+              "ToolTip": "C:\\Users\\dynamit-desktop-01\\Desktop\\BlueSkyClient.Core\\BlueSkyClient.Core\\Models\\Post\\InteractionPost.cs",
+              "RelativeToolTip": "BlueSkyClient.Core\\Models\\Post\\InteractionPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:47:29.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReplyTreeNode.cs",
+              "DocumentMoniker": "C:\\Users\\dynamit-desktop-01\\Desktop\\BlueSkyClient.Core\\BlueSkyClient.Core\\Models\\Post\\ReplyTreeNode.cs",
+              "RelativeDocumentMoniker": "BlueSkyClient.Core\\Models\\Post\\ReplyTreeNode.cs",
+              "ToolTip": "C:\\Users\\dynamit-desktop-01\\Desktop\\BlueSkyClient.Core\\BlueSkyClient.Core\\Models\\Post\\ReplyTreeNode.cs",
+              "RelativeToolTip": "BlueSkyClient.Core\\Models\\Post\\ReplyTreeNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:41:05.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dynamit-desktop-01\\Desktop\\BlueSkyClient.Core\\BlueSkyClient.Console\\Program.cs",
+              "RelativeDocumentMoniker": "BlueSkyClient.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\dynamit-desktop-01\\Desktop\\BlueSkyClient.Core\\BlueSkyClient.Console\\Program.cs",
+              "RelativeToolTip": "BlueSkyClient.Console\\Program.cs",
+              "ViewState": "AgIAAJQBAAAAAAAAAAAAAKkBAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:54:22.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlueSkyService.cs",
+              "DocumentMoniker": "C:\\Users\\dynamit-desktop-01\\Desktop\\BlueSkyClient.Core\\BlueSkyClient.Core\\BlueSkyService.cs",
+              "RelativeDocumentMoniker": "BlueSkyClient.Core\\BlueSkyService.cs",
+              "ToolTip": "C:\\Users\\dynamit-desktop-01\\Desktop\\BlueSkyClient.Core\\BlueSkyClient.Core\\BlueSkyService.cs",
+              "RelativeToolTip": "BlueSkyClient.Core\\BlueSkyService.cs",
+              "ViewState": "AgIAAMECAAAAAAAAAAAUwA4DAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:44:07.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
