@@ -1,0 +1,15 @@
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Infrastructure\bin\Debug\net8.0\BlueSkyClient.Infrastructure.deps.json
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Infrastructure\bin\Debug\net8.0\BlueSkyClient.Infrastructure.dll
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Infrastructure\bin\Debug\net8.0\BlueSkyClient.Infrastructure.pdb
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Infrastructure\bin\Debug\net8.0\BlueSkyClient.Core.dll
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Infrastructure\bin\Debug\net8.0\BlueSkyClient.Core.pdb
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Infrastructure\obj\Debug\net8.0\BlueSkyClient.Infrastructure.csproj.AssemblyReference.cache
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Infrastructure\obj\Debug\net8.0\BlueSkyClient.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Infrastructure\obj\Debug\net8.0\BlueSkyClient.Infrastructure.AssemblyInfoInputs.cache
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Infrastructure\obj\Debug\net8.0\BlueSkyClient.Infrastructure.AssemblyInfo.cs
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Infrastructure\obj\Debug\net8.0\BlueSkyClient.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Infrastructure\obj\Debug\net8.0\BlueSkyC.DDCB9659.Up2Date
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Infrastructure\obj\Debug\net8.0\BlueSkyClient.Infrastructure.dll
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Infrastructure\obj\Debug\net8.0\refint\BlueSkyClient.Infrastructure.dll
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Infrastructure\obj\Debug\net8.0\BlueSkyClient.Infrastructure.pdb
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Infrastructure\obj\Debug\net8.0\ref\BlueSkyClient.Infrastructure.dll

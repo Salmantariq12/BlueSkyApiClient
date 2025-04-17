@@ -1,0 +1,96 @@
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.deps.json
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.dll
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.pdb
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.AssemblyInfoInputs.cache
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.AssemblyInfo.cs
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.csproj.CoreCompileInputs.cache
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.dll
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\refint\BlueSkyClient.Core.dll
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.pdb
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\ref\BlueSkyClient.Core.dll
+C:\Work\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.csproj.AssemblyReference.cache
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.deps.json
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.dll
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.pdb
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.csproj.AssemblyReference.cache
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.AssemblyInfoInputs.cache
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.AssemblyInfo.cs
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.csproj.CoreCompileInputs.cache
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.dll
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\refint\BlueSkyClient.Core.dll
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.pdb
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\ref\BlueSkyClient.Core.dll
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.deps.json
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.dll
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.pdb
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.csproj.AssemblyReference.cache
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.AssemblyInfoInputs.cache
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.AssemblyInfo.cs
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.csproj.CoreCompileInputs.cache
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.dll
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\refint\BlueSkyClient.Core.dll
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.pdb
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\ref\BlueSkyClient.Core.dll
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.deps.json
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.dll
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.pdb
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.csproj.AssemblyReference.cache
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.AssemblyInfoInputs.cache
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.AssemblyInfo.cs
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.csproj.CoreCompileInputs.cache
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.dll
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\refint\BlueSkyClient.Core.dll
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.pdb
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\ref\BlueSkyClient.Core.dll
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.deps.json
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.dll
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.pdb
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.csproj.AssemblyReference.cache
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.AssemblyInfoInputs.cache
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.AssemblyInfo.cs
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.csproj.CoreCompileInputs.cache
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.dll
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\refint\BlueSkyClient.Core.dll
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.pdb
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\ref\BlueSkyClient.Core.dll
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.deps.json
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.dll
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.pdb
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.csproj.AssemblyReference.cache
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.AssemblyInfoInputs.cache
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.AssemblyInfo.cs
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.csproj.CoreCompileInputs.cache
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.dll
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\refint\BlueSkyClient.Core.dll
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.pdb
+C:\Users\dynamit-iqra\Desktop\BlueSkyClient.Core (2)\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\ref\BlueSkyClient.Core.dll
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.deps.json
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.dll
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.pdb
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.csproj.AssemblyReference.cache
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.AssemblyInfoInputs.cache
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.AssemblyInfo.cs
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.csproj.CoreCompileInputs.cache
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.dll
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\refint\BlueSkyClient.Core.dll
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.pdb
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\ref\BlueSkyClient.Core.dll
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.deps.json
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.dll
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\bin\Debug\net8.0\BlueSkyClient.Core.pdb
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.csproj.AssemblyReference.cache
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.AssemblyInfoInputs.cache
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.AssemblyInfo.cs
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.csproj.CoreCompileInputs.cache
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.dll
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\refint\BlueSkyClient.Core.dll
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\BlueSkyClient.Core.pdb
+C:\Users\dynamit-desktop-01\Desktop\BlueSkyClient.Core\BlueSkyClient.Core\obj\Debug\net8.0\ref\BlueSkyClient.Core.dll

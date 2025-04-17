@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BlueSkyClient.Infrastructure/1.0.0": {
+        "dependencies": {
+          "BlueSkyClient.Core": "1.0.0"
+        },
+        "runtime": {
+          "BlueSkyClient.Infrastructure.dll": {}
+        }
+      },
+      "BlueSkyClient.Core/1.0.0": {
+        "runtime": {
+          "BlueSkyClient.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlueSkyClient.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlueSkyClient.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
